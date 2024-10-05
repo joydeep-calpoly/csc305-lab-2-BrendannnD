@@ -4,7 +4,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
@@ -57,7 +56,7 @@ public class Parser {
 
     //             QUESTION: Does including the static member classes break single responsibility?
     public static void main(String[] args) {
-        String fileName = "C:/Users/brend/OneDrive/Documents/GitHub/csc349/csc305-lab-2-BrendannnD/CSC305_Lab_2/src/input1.json";
+        String fileName = "input1.json";
         try {
             JSONObject jsonObject = new JSONObject(new String(Files.readAllBytes(Paths.get(fileName))));
             String name = jsonObject.getString("name");
