@@ -1,0 +1,24 @@
+{
+  "awards": [
+    {
+      "name": "IEEE John von Neumann Medal",
+      "year": 2004
+    },
+    {
+      "name": "A. M. Turing Award",
+      "year": 2008
+    },
+    {
+      "name": "Computer Pioneer Award",
+      "year": 2018
+    }
+  ],
+  "knownFor": [
+    "Venus operating system",
+    "CLU programming language",
+    "Argus programming language",
+    "Thor object-oriented database",
+    "Liskov substitution principle"
+  ],
+  "name": "Barbara Liskov"
+}

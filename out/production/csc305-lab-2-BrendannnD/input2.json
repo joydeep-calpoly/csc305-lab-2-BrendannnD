@@ -1,0 +1,25 @@
+{
+  "awards": [
+    {
+      "name": "National Medal of Science",
+      "year": 2011
+    },
+    {
+      "name": "Vannevar Bush Award",
+      "year": 2014
+    },
+    {
+      "name": "Presidential Award for Excellence in Science, Mathematics, and Engineering Mentoring",
+      "year": 1996
+    },
+    {
+      "name": "Hispanic Heritage Award in Math and Science",
+      "year": 2009
+    }
+  ],
+  "knownFor": [
+    "Mathematical optimization",
+    "Champion of under-represented minorities in the sciences"
+  ],
+  "name": "Richard A. Tapia"
+}
